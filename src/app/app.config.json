@@ -1,0 +1,13 @@
+{
+  "appname": "Testing at 30,000 ft",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader ProductAdmin ProductReader InventoryAdmin ProductAssignmentAdmin CategoryAdmin CategoryReader AddressAdmin AddressReader CostCenterAdmin CostCenterReader CouponAdmin CouponReader CreditCardAdmin CreditCardReader EmailTemplateAdmin EmailTemplateReader PriceScheduleAdmin PriceScheduleReader SpendingAccountAdmin SpendingAccountReader BuyerUserAdmin BuyerUserReader UserGroupAdmin UserGroupReader ApprovalRuleAdmin ApprovalRuleReader PermissionAdmin OverrideUnitPrice ChangeCreditCardOrders ChangeNonCreditCardOrders OverrideShipping OverrideTax SetSecurityProfile DevCenterWebHookAdmin",
+  "clientid": "C063E52A-B80D-413C-83B1-DC75680B323D",
+  "buyerid": "NLBBuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
